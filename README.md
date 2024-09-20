@@ -1,3 +1,4 @@
+![logo](https://github.com/aastha28jain/aastha28jain/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aastha Jain</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
